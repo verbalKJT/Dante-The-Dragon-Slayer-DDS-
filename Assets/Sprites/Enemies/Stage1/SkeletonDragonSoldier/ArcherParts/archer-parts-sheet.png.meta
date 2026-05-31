@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 84abd5c8a76634a0093e7ceb486237a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1018063471845380857
+    second: archer-parts-sheet_0
+  - first:
+      213: 5580092783990787803
+    second: archer-parts-sheet_1
+  - first:
+      213: -406450784244330052
+    second: archer-parts-sheet_2
+  - first:
+      213: 5531481278079480473
+    second: archer-parts-sheet_3
+  - first:
+      213: 2752647244093454713
+    second: archer-parts-sheet_4
+  - first:
+      213: 431114157718604615
+    second: archer-parts-sheet_5
+  - first:
+      213: -5863913515658494992
+    second: archer-parts-sheet_6
+  - first:
+      213: -9147441247091534855
+    second: archer-parts-sheet_7
+  - first:
+      213: 2545840715798132752
+    second: archer-parts-sheet_8
+  - first:
+      213: -2556811607289233262
+    second: archer-parts-sheet_9
+  - first:
+      213: -3076227363008190714
+    second: archer-parts-sheet_10
+  - first:
+      213: 8840501045619649568
+    second: archer-parts-sheet_11
+  - first:
+      213: -1132966607654411682
+    second: archer-parts-sheet_12
+  - first:
+      213: -1020512050139285573
+    second: archer-parts-sheet_13
+  - first:
+      213: 921008714640605139
+    second: archer-parts-sheet_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: archer-parts-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 577
+        width: 206
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2152e6553e02e00800000000000000
+      internalID: 1018063471845380857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer-parts-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 493
+        width: 214
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdecd7b82d8707d40800000000000000
+      internalID: 5580092783990787803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer-parts-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 485
+        width: 220
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1107a4a2ffb5af0800000000000000
+      internalID: -406450784244330052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer-parts-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 496
+        width: 238
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992b6a55ae4c3cc40800000000000000
+      internalID: 5531481278079480473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer-parts-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 489
+        width: 196
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979f528951e533620800000000000000
+      internalID: 2752647244093454713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer-parts-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 499
+        width: 140
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b8574da00abf500800000000000000
+      internalID: 431114157718604615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer-parts-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 99
+        width: 120
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb3091d9b13f9ea0800000000000000
+      internalID: -5863913515658494992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer-parts-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 92
+        width: 145
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f35a57a6a2cd0180800000000000000
+      internalID: -9147441247091534855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer-parts-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 143
+        width: 129
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018bfdf74a4a45320800000000000000
+      internalID: 2545840715798132752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer-parts-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 103
+        width: 90
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2900ee5c361648cd0800000000000000
+      internalID: -2556811607289233262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer-parts-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 127
+        width: 104
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6076f8b038b0f45d0800000000000000
+      internalID: -3076227363008190714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer-parts-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 110
+        width: 88
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ce0acacd4cfaa70800000000000000
+      internalID: 8840501045619649568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer-parts-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 85
+        width: 104
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5221608fd4e640f0800000000000000
+      internalID: -1132966607654411682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer-parts-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 159
+        width: 48
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7317282b966d1f0800000000000000
+      internalID: -1020512050139285573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer-parts-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 127
+        width: 123
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df3137db8418cc00800000000000000
+      internalID: 921008714640605139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      archer-parts-sheet_0: 1018063471845380857
+      archer-parts-sheet_1: 5580092783990787803
+      archer-parts-sheet_10: -3076227363008190714
+      archer-parts-sheet_11: 8840501045619649568
+      archer-parts-sheet_12: -1132966607654411682
+      archer-parts-sheet_13: -1020512050139285573
+      archer-parts-sheet_14: 921008714640605139
+      archer-parts-sheet_2: -406450784244330052
+      archer-parts-sheet_3: 5531481278079480473
+      archer-parts-sheet_4: 2752647244093454713
+      archer-parts-sheet_5: 431114157718604615
+      archer-parts-sheet_6: -5863913515658494992
+      archer-parts-sheet_7: -9147441247091534855
+      archer-parts-sheet_8: 2545840715798132752
+      archer-parts-sheet_9: -2556811607289233262
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
