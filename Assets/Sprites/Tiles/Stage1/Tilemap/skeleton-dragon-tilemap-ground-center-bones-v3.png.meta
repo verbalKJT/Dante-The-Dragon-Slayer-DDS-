@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a58ab89cbadea4980a4685f8e2c7c4aa
+guid: fb069c47a1cb847f9bddc350edcfd50b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4464599270433581667
-    second: skeleton-dragon-wasteland-ground-platform-v1-pixel_0
+      213: -7659284413498007552
+    second: skeleton-dragon-tilemap-ground-center-bones-v3_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 200
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -100,23 +100,28 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: skeleton-dragon-wasteland-ground-platform-v1-pixel_0
+      name: skeleton-dragon-tilemap-ground-center-bones-v3_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1721
-        height: 914
+        width: 1024
+        height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
-      physicsShape: []
-      tessellationDetail: -1
+      physicsShape:
+      - - {x: 510, y: 461}
+        - {x: -512, y: 459}
+        - {x: -512, y: -492}
+        - {x: 10, y: -494}
+        - {x: 512, y: -492}
+      tessellationDetail: 0
       bones: []
-      spriteID: d9596553e9e8a02c0800000000000000
-      internalID: -4464599270433581667
+      spriteID: 000e3c31861c4b590800000000000000
+      internalID: -7659284413498007552
       vertices: []
       indices: 
       edges: []
@@ -125,7 +130,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 548d38e4526754a218248c8a79f432e7
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +140,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      skeleton-dragon-wasteland-ground-platform-v1-pixel_0: -4464599270433581667
+      skeleton-dragon-tilemap-ground-center-bones-v3_0: -7659284413498007552
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
