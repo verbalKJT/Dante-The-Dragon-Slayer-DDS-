@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: bd0ae874a7b12478ca2f2c7a80a8e4dc
+guid: 13906d9c9c2204d1cafe41256f476e09
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4031694255389271202
-    second: skeleton-dragon-wasteland-ground-cliff-platform-v2-pixel_0
+      213: 5290158066378303075
+    second: skeleton-dragon-underbody-clean-variant-3-v1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,12 +100,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: skeleton-dragon-wasteland-ground-cliff-platform-v2-pixel_0
+      name: skeleton-dragon-underbody-clean-variant-3-v1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1536
+        width: 1024
         height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e5b1a808f6b8c08c0800000000000000
-      internalID: -4031694255389271202
+      spriteID: 3666520abba6a6940800000000000000
+      internalID: 5290158066378303075
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      skeleton-dragon-wasteland-ground-cliff-platform-v2-pixel_0: -4031694255389271202
+      skeleton-dragon-underbody-clean-variant-3-v1_0: 5290158066378303075
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
